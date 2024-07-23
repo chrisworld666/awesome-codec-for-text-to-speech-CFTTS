@@ -3,8 +3,8 @@
 
 
 ## 1.2 Deep Learning and Deep Neural Networks(DNN)--new ways(nncodec)
-- VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers[[paper](https://arxiv.org/abs/2406.05370)][[code](https://aka.ms/valle2)]
 - Optimization of DNN-based speaker verification model through efficient quantization technique[[paper](https://arxiv.org/abs/2407.08991)]
+- VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers[[paper](https://arxiv.org/abs/2406.05370)][[code](https://aka.ms/valle2)]
 
 
 
