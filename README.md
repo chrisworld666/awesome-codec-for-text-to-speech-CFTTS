@@ -2,14 +2,12 @@
 ## *1.1 Comparison of Hybrid and Hidden Markov Model(HMM) or Conditional Random Field(CRF)--traditional ways
 - 2024.7.25 On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures[[paper](https://arxiv.org/abs/2407.17997)][[code](https://github.com/rwth-i6/returnn-experiments/tree/master/2024-pure-synthetic-data)]
 - 2024.2.20 Comparison of Conventional Hybrid and CTC/Attention Decoders for Continuous Visual Speech Recognition[[paper](https://arxiv.org/abs/2402.13004)]
-- 
-
-
-
+- 2023.7.25 CQNV: A combination of coarsely quantized bitstream and neural vocoder for low rate speech coding[[paper](https://arxiv.org/abs/2307.13295)]
 
 
 ## 1.2 Deep Learning and Deep Neural Networks(DNN)--new ways(nncodec)
 - 2024.7.22 EMO-Codec: A Depth Look at Emotion Preservation Capacity of Legacy and Neural Codec Models With Subjective and Objective Evaluations[[paper](https://arxiv.org/abs/2407.15458)]
+- 2024.7.9 SpatialCodec: Neural Spatial Speech Coding[[paper](https://arxiv.org/abs/2309.07432)][[code](https://xzwy.github.io/SpatialCodecDemo)][[code](https://github.com/XZWY/SpatialCodec)]
 - 2024.6.11 Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation[[paper](https://arxiv.org/abs/2406.07422)][[code](https://kkksuper.github.io/Single-Codec)]
 - 2024.6.8 VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers[[paper](https://arxiv.org/abs/2406.05370)][[code](https://aka.ms/valle2)]
 - 2024.5.7 HILCodec: High Fidelity and Lightweight Neural Audio Codec[[paper](https://arxiv.org/abs/2405.04752)]
@@ -27,8 +25,10 @@
 - 2023.9.25 NoLACE: Improving Low-Complexity Speech Codec Enhancement Through Adaptive Temporal Shaping[[paper](https://arxiv.org/abs/2309.14521)][[code](https://282fd5fa7.github.io/NoLACE)][[code](https://gitlab.xiph.org/xiph/opus/-/tree/icassp2024)]
 - 2023.9.15 A High-Rate Extension to Soundstream[[paper](https://ieeexplore.ieee.org/document/10248100)]
 - 2023.9.14 M3-AUDIODEC: Multi-channel multi-speaker multi-spatial audio codec[[paper](https://arxiv.org/abs/2309.07416)][[code](https://anton-jeran.github.io/MAD/)]
+- 2023.8.31 RepCodec: A Speech Representation Codec for Speech Tokenization[[paper](https://arxiv.org/abs/2309.00169)][[code](https://github.com/mct10/RepCodec)]
 - 2023.5.26 AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec[[paper](https://arxiv.org/abs/2305.16608)][[code](https://github.com/facebookresearch/AudioDec)]
 - 2023.5.25 VioLA: Unified Codec Language Models for Speech Recognition, Synthesis, and Translation[[paper](https://arxiv.org/abs/2305.16107)]
+- 2023.5.4 HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec[[paper](https://arxiv.org/abs/2305.02765)][[code](https://github.com/yangdongchao/AcademiCodec)]
 - 2023.3.23 LMCodec: A Low Bitrate Speech Codec With Causal Transformer Models[[paper](https://arxiv.org/pdf/2303.12984)][[code](https://mjenrungrot.github.io/chrome-media-audio-papers/publications/lmcodec)]
 - 2022.10.24 High Fidelity Neural Audio Compression[[paper](https://arxiv.org/abs/2210.13438)][[code](https://github.com/facebookresearch/encodec)][[code](https://ai.honu.io/papers/encodec/samples.html)]
 - 2022.1.7 NESC: Robust Neural End-2-End Speech Coding with GANs[[paper](https://arxiv.org/abs/2207.03282)]
@@ -51,21 +51,13 @@
 - 2024.1.18 神经网络在语音合成与语音表情识别中的应用[[paper](https://blog.csdn.net/universsky2015/article/details/136011471)]
 - 2024.1.14 ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering[[paper](https://arxiv.org/abs/2401.07333)][[code](https://ereboas.github.io/ELLAV/)]
 - 2023.9.14 EnCodecMAE: Leveraging neural codecs for universal audio representation learning[[paper](https://arxiv.org/abs/2309.07391)][[code](https://github.com/habla-liaa/encodecmae)]
+- 2023.8.23 TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models[[paper](https://arxiv.org/abs/2308.14430)][[code](https://sall-e.github.io/)]
+- 2023.8.14 SpeechX: Neural Codec Language Model as a Versatile Speech Transformer[[paper](https://arxiv.org/abs/2308.06873)][[code](https://www.microsoft.com/en-us/research/project/speechx/)]
+- 2023.7.20 SC VALL-E: Style-Controllable Zero-Shot Text to Speech Synthesizer[[paper](https://arxiv.org/abs/2307.10550)][[code](https://creativecommons.org/licenses/by/4.0/)]
 - 2023.6.12 HiddenSinger: High-Quality Singing Voice Synthesis via Neural Audio Codec and Latent Diffusion Models[[paper](https://arxiv.org/abs/2306.06814)][[code](https://jisang93.github.io/hiddensinger-demo/)]
 - 2023.1.5 Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers[[paper](https://arxiv.org/abs/2301.02111)][[code](https://github.com/microsoft/unilm)]
 - 2022.3.3 Decoding Knowledge Transfer for Neural Text-to-Speech Training[[paper](https://ieeexplore.ieee.org/document/9767637)][[code](https://creativecommons.org/licenses/by/4.0/)]
 - 2022.3.2 MIST-Tacotron: End-to-End Emotional Speech Synthesis Using Mel-Spectrogram Image Style Transfer[[paper](https://ieeexplore.ieee.org/document/9726166)][[code](https://creativecommons.org/licenses/by/4.0/)]
-
-
-
-
-
-
-
-
-
-
-
 
 # Reference
 - https://github.com/seungwonpark/awesome-tts-samples
