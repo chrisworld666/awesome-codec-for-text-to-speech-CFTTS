@@ -1,9 +1,10 @@
 # 1. Codec
-## *1.1 Comparison of Hybrid and Hidden Markov Model(HMM) or Conditional Random Field(CRF)--traditional ways
+## *1.1 Conventional Hybrid Decoders and codec with Hidden Markov Model(HMM) or Conditional Random Field(CRF)--traditional ways
 - 2024.7.25 On the Effect of Purely Synthetic Training Data for Different Automatic Speech Recognition Architectures[[paper](https://arxiv.org/abs/2407.17997)][[code](https://github.com/rwth-i6/returnn-experiments/tree/master/2024-pure-synthetic-data)]
 - 2024.2.20 Comparison of Conventional Hybrid and CTC/Attention Decoders for Continuous Visual Speech Recognition[[paper](https://arxiv.org/abs/2402.13004)]
+- 2023.9.14 Hybrid Attention-based Encoder-decoder Model for Efficient Language Model Adaptation[[paper](https://arxiv.org/abs/2309.07369)]
 - 2023.7.25 CQNV: A combination of coarsely quantized bitstream and neural vocoder for low rate speech coding[[paper](https://arxiv.org/abs/2307.13295)]
-
+- 2022.7.18 Latent-Domain Predictive Neural Speech Coding[[paper](https://arxiv.org/abs/2207.08363)]
 
 ## 1.2 Deep Learning and Deep Neural Networks(DNN)--new ways(nncodec)
 - 2024.7.22 EMO-Codec: A Depth Look at Emotion Preservation Capacity of Legacy and Neural Codec Models With Subjective and Objective Evaluations[[paper](https://arxiv.org/abs/2407.15458)]
@@ -14,6 +15,7 @@
 - 2024.6.6 A Low-Bitrate Neural Audio Codec Framework with Bandwidth Reduction and Recovery for High-Sampling-Rate Waveforms[[code](https://yangai520.github.io/APCodec_APBWE)]
 - 2024.5.8 HILCodec: High Fidelity and Lightweight Neural Audio Codec[[paper](https://arxiv.org/abs/2405.04752)][[code](https://github.com/aask1357/hilcodec)]
 - 2024.5.7 HILCodec: High Fidelity and Lightweight Neural Audio Codec[[paper](https://arxiv.org/abs/2405.04752)]
+- 2024.4.30 SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound[[paper](https://arxiv.org/abs/2405.00233)]
 - 2024.4.28 基于神经网络的低码率语音编码技术研究综述[[paper](https://kns.cnki.net/kcms2/article/abstract?v=wRD08hUPYgxIQfVIo03qBOmF-KFe1SjsE8tlpEc5OvnGr0I4pNML3ML4vI6BI3Q4dCtxdAc-F2rtQBJVg259do_ultMvCkimLUC52KEGwfPT-ztkpwkZ9W9jeZPcb_ImA2ISCuuBEdeOAOpUlLReOAkWvzMob0h9&uniplatform=NZKPT&language=CHS)]
 - 2024.4.14 SuperCodec: A Neural Speech Codec with Selective Back-Projection Network[[paper](https://ieeexplore.ieee.org/document/10447744)]
 - 2024.4.14 ScoreDec: A Phase-Preserving High-Fidelity Audio Codec with a Generalized Score-Based Diffusion Post-Filter[[paper](https://ieeexplore.ieee.org/document/10448371)]
@@ -52,6 +54,7 @@
 - 2024.6.7 Neural Codec-based Adversarial Sample Detection for Speaker Verification[[paper](https://arxiv.org/abs/2406.04582)]
 - 2024.6.6 MAT-SED: AMasked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection
 - 2024.6.3 ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec[[paper](https://arxiv.org/abs/2406.01205)][[code](https://github.com/jishengpeng/ControlSpeech)]
+- 2024.4.9 PESQ enhancement for decoded speech audio signals using complex convolutional recurrent neural network[[paper](https://ieeexplore.ieee.org/document/10479874)][[code](https://0nutation.github.io/SpeechAlign.github.io/)]
 - 2024.4.8 SpeechAlign: Aligning Speech Generation to Human Preferences[[paper](https://arxiv.org/abs/2404.05600)][[code](https://0nutation.github.io/SpeechAlign.github.io/)]
 - 2024.4.3 CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech[[paper](https://arxiv.org/abs/2404.02781)][[code](
 https://clam-tts.github.io)]
@@ -62,6 +65,7 @@ https://clam-tts.github.io)]
 - 2024.1.21 SingFake: Singing Voice Deepfake Detection[[paper](https://arxiv.org/abs/2309.07525)][[code](https://www.singfake.org/)]
 - 2024.1.18 神经网络在语音合成与语音表情识别中的应用[[paper](https://blog.csdn.net/universsky2015/article/details/136011471)]
 - 2024.1.14 ELLA-V: Stable Neural Codec Language Modeling with Alignment-guided Sequence Reordering[[paper](https://arxiv.org/abs/2401.07333)][[code](https://ereboas.github.io/ELLAV/)]
+- 2024.1.5 Pheme: Efficient and Conversational Speech Generation[[paper](https://arxiv.org/abs/2401.02839)][[code](https://polyai-ldn.github.io/pheme/)]
 - 2023.9.14 EnCodecMAE: Leveraging neural codecs for universal audio representation learning[[paper](https://arxiv.org/abs/2309.07391)][[code](https://github.com/habla-liaa/encodecmae)]
 - 2023.8.23 TextrolSpeech: A Text Style Control Speech Corpus With Codec Language Text-to-Speech Models[[paper](https://arxiv.org/abs/2308.14430)][[code](https://sall-e.github.io/)]
 - 2023.8.14 SpeechX: Neural Codec Language Model as a Versatile Speech Transformer[[paper](https://arxiv.org/abs/2308.06873)][[code](https://www.microsoft.com/en-us/research/project/speechx/)]
