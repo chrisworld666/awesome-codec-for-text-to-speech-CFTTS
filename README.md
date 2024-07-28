@@ -10,6 +10,7 @@
 - 2024.7.9 SpatialCodec: Neural Spatial Speech Coding[[paper](https://arxiv.org/abs/2309.07432)][[code](https://xzwy.github.io/SpatialCodecDemo)][[code](https://github.com/XZWY/SpatialCodec)]
 - 2024.6.11 Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation[[paper](https://arxiv.org/abs/2406.07422)][[code](https://kkksuper.github.io/Single-Codec)]
 - 2024.6.8 VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers[[paper](https://arxiv.org/abs/2406.05370)][[code](https://aka.ms/valle2)]
+- 2024.6.6  A Low-Bitrate Neural Audio Codec Framework with Bandwidth Reduction and Recovery for High-Sampling-Rate Waveforms[[code](https://yangai520.github.io/APCodec_APBWE)]
 - 2024.5.7 HILCodec: High Fidelity and Lightweight Neural Audio Codec[[paper](https://arxiv.org/abs/2405.04752)]
 - 2024.4.28 基于神经网络的低码率语音编码技术研究综述[[paper](https://kns.cnki.net/kcms2/article/abstract?v=wRD08hUPYgxIQfVIo03qBOmF-KFe1SjsE8tlpEc5OvnGr0I4pNML3ML4vI6BI3Q4dCtxdAc-F2rtQBJVg259do_ultMvCkimLUC52KEGwfPT-ztkpwkZ9W9jeZPcb_ImA2ISCuuBEdeOAOpUlLReOAkWvzMob0h9&uniplatform=NZKPT&language=CHS)]
 - 2024.4.14 SuperCodec: A Neural Speech Codec with Selective Back-Projection Network[[paper](https://ieeexplore.ieee.org/document/10447744)]
@@ -42,6 +43,7 @@
 - 2024.6.12 VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment[[paper](https://arxiv.org/abs/2406.07855)][[code](https://aka.ms/valler)]
 - 2022.4.16 基于编解码器生成对抗网络的CT去噪[[paper](https://kns.cnki.net/kcms2/article/abstract?v=wRD08hUPYgyNeWLqxsgErefvFIq6eitS9VAYSDvSMID-X-8i7d8QgosYK_xxmkhVHWtatWsgWYB3Pmfd5GhX87IVjXBbSsYnFKrgPMGHfQAIraIf6xo1A82BN5f8rSBokv3Ksc6By9l70Krss0vbCdgaJCT4qThy&uniplatform=NZKPT&language=CHS)]
 - 2024.6.11 CodecFake: Enhancing Anti-Spoofing Models Against Deepfake Audios from Codec-Based Speech Synthesis Systems[[paper](https://arxiv.org/abs/2406.07237)][[code](https://codecfake.github.io)]
+- 2024.6.6 MAT-SED: AMasked Audio Transformer with Masked-Reconstruction Based Pre-training for Sound Event Detection
 - 2024.6.3 ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec[[paper](https://arxiv.org/abs/2406.01205)][[code](https://github.com/jishengpeng/ControlSpeech)]
 - 2024.3.20 Multi-speaker Text-to-speech Training with Speaker Anonymized Data[[paper](https://arxiv.org/abs/2405.11767)][[code](https://unilight.github.io/Publication-Demos/publications/sa-tts-spl/index.html)]
 - 2024.3.18 EnCLAP: Combining Neural Audio Codec and Audio-Text Joint Embedding for Automated Audio Captioning[[paper](https://ieeexplore.ieee.org/document/10446672)][[code](https://huggingface.co/spaces/enclap-team/enclap)]
@@ -60,6 +62,7 @@
 - 2022.3.2 MIST-Tacotron: End-to-End Emotional Speech Synthesis Using Mel-Spectrogram Image Style Transfer[[paper](https://ieeexplore.ieee.org/document/9726166)][[code](https://creativecommons.org/licenses/by/4.0/)]
 
 # Reference
+- https://nelslip.ustc.edu.cn/2024/0606/c26914a643184/page.htm
 - https://github.com/seungwonpark/awesome-tts-samples
 - https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers#Speaker-Verification
 - https://github.com/xcmyz/speech-synthesis-paper
