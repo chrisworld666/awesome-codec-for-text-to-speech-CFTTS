@@ -14,7 +14,6 @@
 - 2024.6.7 Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis[[paper](https://arxiv.org/abs/2406.05298)][[code](https://rlangman.github.io/spectral-codec/)]
 - 2024.6.6 A Low-Bitrate Neural Audio Codec Framework with Bandwidth Reduction and Recovery for High-Sampling-Rate Waveforms[[code](https://yangai520.github.io/APCodec_APBWE)]
 - 2024.5.8 HILCodec: High Fidelity and Lightweight Neural Audio Codec[[paper](https://arxiv.org/abs/2405.04752)][[code](https://github.com/aask1357/hilcodec)]
-- 2024.5.7 HILCodec: High Fidelity and Lightweight Neural Audio Codec[[paper](https://arxiv.org/abs/2405.04752)]
 - 2024.4.30 SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound[[paper](https://arxiv.org/abs/2405.00233)]
 - 2024.4.28 基于神经网络的低码率语音编码技术研究综述[[paper](https://kns.cnki.net/kcms2/article/abstract?v=wRD08hUPYgxIQfVIo03qBOmF-KFe1SjsE8tlpEc5OvnGr0I4pNML3ML4vI6BI3Q4dCtxdAc-F2rtQBJVg259do_ultMvCkimLUC52KEGwfPT-ztkpwkZ9W9jeZPcb_ImA2ISCuuBEdeOAOpUlLReOAkWvzMob0h9&uniplatform=NZKPT&language=CHS)]
 - 2024.4.14 SuperCodec: A Neural Speech Codec with Selective Back-Projection Network[[paper](https://ieeexplore.ieee.org/document/10447744)]
